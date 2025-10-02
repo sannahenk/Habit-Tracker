@@ -1,0 +1,21 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# JSON files with user/test data (optional)
+habits.json
+
+# IDE/Editor files
+*.iml
+/workspace.xml
+/shelf/
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage
+/dataSources/
+dataSources.local.xml
